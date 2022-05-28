@@ -11,6 +11,7 @@
  *
  */
 
+#include <sys/sysmacros.h>
 #include "hw/virtio/virtio.h"
 #include "hw/i386/pc.h"
 #include "qemu/sockets.h"
